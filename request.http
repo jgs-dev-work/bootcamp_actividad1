@@ -1,0 +1,4 @@
+GET https://localhost:3333/alcaldia/listar-usuarios 
+content-type: application/json
+
+
